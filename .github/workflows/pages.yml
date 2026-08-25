@@ -18,14 +18,22 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+
       - name: Collect site files
         run: |
           mkdir _site
           cp index.html styles.css app.js places.json photos.json _site/
           cp -r images _site/images
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true   # ensures Pages is enabled automatically
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
           path: _site
+
       - id: deployment
         uses: actions/deploy-pages@v4
