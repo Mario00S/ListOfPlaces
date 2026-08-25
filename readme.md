@@ -1,0 +1,1 @@
+The page is index.html + styles.css + app.js. Data is places.json and photos.json. Images are static files in images/. fetch loads the JSON; the rest is DOM + CSS (sticky nav, scroll-snap, localStorage for theme).

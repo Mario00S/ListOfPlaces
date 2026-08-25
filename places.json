@@ -1,0 +1,921 @@
+[
+  {
+    "id": "vago",
+    "name": "Vago",
+    "category": "bars",
+    "area": "Lisbon",
+    "mapsQuery": "Vago bar Lisbon",
+    "note": "Cocktail rec from the crew.",
+    "tags": [
+      "cocktails"
+    ],
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "uni",
+    "name": "UNI",
+    "category": "bars",
+    "area": "Lisbon",
+    "mapsQuery": "UNI bar Lisbon",
+    "note": "Friend rec — confirm the pin, the name is used a few times.",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "toca-de-raposa",
+    "name": "Toca de Raposa",
+    "category": "bars",
+    "area": "Lisbon",
+    "mapsQuery": "Toca de Raposa Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "monkey-mash",
+    "name": "Monkey Mash",
+    "category": "bars",
+    "area": "Lisbon",
+    "mapsQuery": "Monkey Mash Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "imprensa",
+    "name": "Imprensa Cocktail & Oyster Bar",
+    "category": "bars",
+    "area": "Lisbon",
+    "mapsQuery": "Imprensa Cocktail & Oyster Bar Lisbon",
+    "note": "Cocktails and oysters.",
+    "tags": [
+      "cocktails",
+      "oysters"
+    ],
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "nexo",
+    "name": "Nexo 1/2",
+    "category": "bars",
+    "area": "Lisbon",
+    "mapsQuery": "Nexo 1/2 bar Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "baz",
+    "name": "BAZ",
+    "category": "bars",
+    "area": "Boavista Street",
+    "mapsQuery": "BAZ bar Boavista Lisbon",
+    "note": "Also part of the Boavista Street crawl.",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "casa-do-comun",
+    "name": "Casa do Comun",
+    "category": "bars",
+    "area": "Lisbon",
+    "mapsQuery": "Casa do Comun Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "lisa-bar",
+    "name": "Lisa Bar",
+    "category": "bars",
+    "area": "Lisbon",
+    "mapsQuery": "Lisa bar",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "a-capela",
+    "name": "A Capela",
+    "category": "bars",
+    "area": "Lisbon",
+    "mapsQuery": "A Capela bar Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "maria-loca",
+    "name": "Maria Loca Bar",
+    "category": "bars",
+    "area": "Lisbon",
+    "mapsQuery": "Maria Loca Bar Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "palheta",
+    "name": "Palheta",
+    "category": "bars",
+    "area": "Lisbon",
+    "mapsQuery": "Palheta bar Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "boa-vista",
+    "name": "Boa Vista",
+    "category": "bars",
+    "area": "Lisbon",
+    "mapsQuery": "Boa Vista bar Lisbon",
+    "note": "Not the same as Boavista Street — check the pin.",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "alfama-bar-street",
+    "name": "Este · Tejo · Típica de Alfama",
+    "category": "bars",
+    "area": "Alfama, same street",
+    "mapsQuery": "Este Bar Alfama Lisbon",
+    "note": "Same street, more locals. Hit all three if you are already in Alfama.",
+    "mapsLinks": [
+      {
+        "label": "Este Bar",
+        "query": "Este Bar Alfama Lisbon"
+      },
+      {
+        "label": "Tejo Bar",
+        "query": "Tejo Bar Alfama Lisbon"
+      },
+      {
+        "label": "Típica de Alfama",
+        "query": "Típica de Alfama Lisbon"
+      }
+    ],
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "vino-vero",
+    "name": "Vino Vero",
+    "category": "wine",
+    "area": "Lisbon",
+    "mapsQuery": "Vino Vero Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "o-pif",
+    "name": "O Pif",
+    "category": "wine",
+    "area": "Lisbon",
+    "mapsQuery": "O Pif wine Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "bythewine",
+    "name": "ByTheWine",
+    "category": "wine",
+    "area": "Lisbon",
+    "mapsQuery": "ByTheWine Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "black-sheep",
+    "name": "Black Sheep",
+    "category": "wine",
+    "area": "Lisbon",
+    "mapsQuery": "Black Sheep wine Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "holy-wine",
+    "name": "Holy Wine",
+    "category": "wine",
+    "area": "Lisbon",
+    "mapsQuery": "Holy Wine Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "casa-farta",
+    "name": "Casa Farta",
+    "category": "wine",
+    "area": "Lisbon",
+    "mapsQuery": "Casa Farta Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "viagem-das-horas",
+    "name": "A Viagem das Horas",
+    "category": "wine",
+    "area": "Lisbon",
+    "mapsQuery": "A Viagem das Horas Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "magnolia",
+    "name": "Magnolia Bistrot & Winebar",
+    "category": "wine",
+    "area": "Lisbon",
+    "mapsQuery": "Magnolia Bistrot & Winebar Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "foxtrot",
+    "name": "Foxtrot",
+    "category": "beer",
+    "area": "Lisbon",
+    "mapsQuery": "Foxtrot bar Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "amor-records",
+    "name": "Amor Records",
+    "category": "beer",
+    "area": "Lisbon",
+    "mapsQuery": "Amor Records Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "crafty-corner",
+    "name": "Crafty Corner",
+    "category": "beer",
+    "area": "Lisbon",
+    "mapsQuery": "Crafty Corner Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "the-venue",
+    "name": "The Venue",
+    "category": "cafes",
+    "area": "Lisbon",
+    "mapsQuery": "The Venue cafe Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "the-folks",
+    "name": "The Folks",
+    "category": "cafes",
+    "area": "Lisbon",
+    "mapsQuery": "The Folks cafe Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "comoba",
+    "name": "Comoba",
+    "category": "cafes",
+    "area": "Lisbon",
+    "mapsQuery": "Comoba Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "tomorrow-at-9",
+    "name": "Tomorrow at 9",
+    "category": "cafes",
+    "area": "Lisbon",
+    "mapsQuery": "Tomorrow at 9 Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "locals-nomads",
+    "name": "Locals & Nomads",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Locals & Nomads Lisbon",
+    "kind": "other",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "mercado-oriental",
+    "name": "Mercado Oriental Martim Moniz",
+    "category": "food",
+    "area": "Martim Moniz",
+    "mapsQuery": "Mercado Oriental Martim Moniz Lisbon",
+    "note": "Asian food hall.",
+    "kind": "asian",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "retrogusto84",
+    "name": "Retrogusto84",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Retrogusto84 Lisbon",
+    "kind": "other",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "burger-champ",
+    "name": "Burger Champ",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Burger Champ Lisbon",
+    "kind": "burger",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "ze-de-mouraria",
+    "name": "Zé de Mouraria",
+    "category": "food",
+    "area": "Several locations",
+    "mapsQuery": "Zé de Mouraria Lisbon",
+    "note": "A few locations — pick the closest pin.",
+    "kind": "portuguese",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "la-pasta-fresca",
+    "name": "La Pasta Fresca",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "La Pasta Fresca Lisbon",
+    "kind": "other",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "ground-burger",
+    "name": "Ground Burger",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Ground Burger Lisbon",
+    "kind": "burger",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "dallas-burger",
+    "name": "Dallas Burger",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Dallas Burger Lisbon",
+    "kind": "burger",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "bhetghat",
+    "name": "Bhetghat Restaurant",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Bhetghat Restaurant Lisbon",
+    "kind": "asian",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "koppu",
+    "name": "Koppu Ramen Izakaya",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Koppu Ramen Izakaya Lisbon",
+    "kind": "asian",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "honest-greens",
+    "name": "Honest Greens",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Honest Greens Lisbon",
+    "kind": "other",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "galeto",
+    "name": "Galeto",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Galeto Lisbon",
+    "note": "Traditional Portuguese. Must visit.",
+    "mustVisit": true,
+    "tags": [
+      "portuguese"
+    ],
+    "kind": "portuguese",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "lucimar-goncalo",
+    "name": "Lucimar & Gonçalo’s",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Lucimar e Goncalo restaurante Lisbon",
+    "note": "Typical Portuguese, especially for meat.",
+    "tags": [
+      "portuguese",
+      "meat"
+    ],
+    "kind": "portuguese",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "a-valenciana",
+    "name": "A Valenciana",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "A Valenciana restaurante Lisbon",
+    "note": "Traditional, cheap Portuguese.",
+    "tags": [
+      "portuguese"
+    ],
+    "kind": "portuguese",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "han-table",
+    "name": "Han Table",
+    "category": "food",
+    "area": "Several locations",
+    "mapsQuery": "Han Table Korean Lisbon",
+    "note": "Korean. More than one location.",
+    "kind": "asian",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "karater",
+    "name": "Karater",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Karater Georgian restaurant Lisbon",
+    "note": "Georgian. Top rec from the crew.",
+    "mustVisit": true,
+    "tags": [
+      "georgian"
+    ],
+    "kind": "georgian",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "josephine",
+    "name": "Josephine Bistro",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Josephine Bistro Lisbon",
+    "note": "Also has food if you land here for drinks.",
+    "kind": "other",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "o-aviao",
+    "name": "Restaurante O Avião",
+    "category": "food",
+    "area": "Bairro Alto",
+    "mapsQuery": "Restaurante O Avião Bairro Alto Lisbon",
+    "note": "Trashy in a good way — best option in that pocket of Bairro Alto.",
+    "kind": "portuguese",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "anta-bar",
+    "name": "Anta Bar",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Anta Bar Lisbon",
+    "note": "Local tasca.",
+    "kind": "tasca",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "a-provinciana",
+    "name": "A Provinciana",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "A Provinciana Lisbon",
+    "kind": "tasca",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "taska-txika",
+    "name": "Taska Da T’xika",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Taska Da Txika Lisbon",
+    "kind": "tasca",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "cantina-das-freiras",
+    "name": "Cantina das Freiras",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Cantina das Freiras Lisbon",
+    "kind": "tasca",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "tabernita",
+    "name": "Tabernita",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Tabernita Lisbon",
+    "kind": "tasca",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "tasca-do-jaime",
+    "name": "A Tasca do Jaime",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "A Tasca do Jaime Lisbon",
+    "kind": "tasca",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "tasca-do-mercado",
+    "name": "Tasca do Mercado",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Tasca do Mercado Lisbon",
+    "kind": "tasca",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "tasca-peteasian",
+    "name": "Tasca Pete",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Tasca Pete Lisbon",
+    "comments": [
+      "Ovaa bese zapishana kako PeteAsian ama ne postoi takva, nema ni poenta"
+    ],
+    "kind": "tasca",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "clandestino",
+    "name": "Clandestino",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Clandestino restaurant Lisbon",
+    "note": "Asian clandestino / street-food energy.",
+    "kind": "asian",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "da-wanmian",
+    "name": "Da Wanmian",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Da Wanmian Lisbon",
+    "kind": "asian",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "chinese-clandestino",
+    "name": "Chinese Clandestino",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Chinese Clandestino Lisbon",
+    "kind": "asian",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "panda-cantina",
+    "name": "Panda Cantina",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Panda Cantina Lisbon",
+    "kind": "asian",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "ramen-shack",
+    "name": "Ramen Shack Lisboa",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Ramen Shack Lisboa",
+    "kind": "asian",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "santa-luzia",
+    "name": "Miradouro de Santa Luzia",
+    "category": "views",
+    "area": "Alfama",
+    "mapsQuery": "Miradouro de Santa Luzia Lisbon",
+    "mustVisit": true,
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "santa-catarina",
+    "name": "Miradouro de Santa Catarina",
+    "category": "views",
+    "area": "Lisbon",
+    "mapsQuery": "Miradouro de Santa Catarina Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "bairro-alto",
+    "name": "Bairro Alto",
+    "category": "views",
+    "area": "Neighborhood",
+    "mapsQuery": "Bairro Alto Lisbon",
+    "note": "Wander the quarter — bars spill into the street.",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "cais-do-sodre",
+    "name": "Cais do Sodré",
+    "category": "views",
+    "area": "Neighborhood",
+    "mapsQuery": "Cais do Sodré Lisbon",
+    "note": "Pink Street energy, late-night crawl.",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "parque-eduardo-vii",
+    "name": "Parque Eduardo VII",
+    "category": "views",
+    "area": "Lisbon",
+    "mapsQuery": "Parque Eduardo VII Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "gulbenkian",
+    "name": "Gulbenkian Museum",
+    "category": "views",
+    "area": "Lisbon",
+    "mapsQuery": "Calouste Gulbenkian Museum Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "estrela",
+    "name": "Jardim da Estrela",
+    "category": "views",
+    "area": "Estrela",
+    "mapsQuery": "Jardim da Estrela Lisbon",
+    "note": "Park with kiosks for drinking.",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "torel",
+    "name": "Jardim do Torel",
+    "category": "views",
+    "area": "Lisbon",
+    "mapsQuery": "Jardim do Torel Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "praca-das-flores",
+    "name": "Praça das Flores",
+    "category": "views",
+    "area": "Lisbon",
+    "mapsQuery": "Praça das Flores Lisbon",
+    "note": "Small park with bars. Top for pre-drinks.",
+    "mustVisit": true,
+    "tags": [
+      "pre-drinks"
+    ],
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "pensao-amor",
+    "name": "Pensão Amor",
+    "category": "views",
+    "area": "Pink Street",
+    "mapsQuery": "Pensão Amor Lisbon",
+    "note": "Big place for the whole crew.",
+    "mustVisit": true,
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "kiosks",
+    "name": "Kiosks",
+    "category": "views",
+    "area": "Citywide / parks",
+    "mapsQuery": "kiosk bar Lisbon park",
+    "note": "Everywhere in parks. Grab a drink and sit outside.",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "8-marvila",
+    "name": "8 Marvila",
+    "category": "views",
+    "area": "Marvila",
+    "mapsQuery": "8 Marvila Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "nuua",
+    "name": "Nuua Beach",
+    "category": "beaches",
+    "area": "Costa da Caparica",
+    "mapsQuery": "Nuua Beach Costa da Caparica",
+    "note": "Chill, DJ, good crowd.",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "praia-da-mata",
+    "name": "Praia da Mata / Casa Mata",
+    "category": "beaches",
+    "area": "Costa da Caparica",
+    "mapsQuery": "Praia da Mata Costa da Caparica",
+    "mapsLinks": [
+      {
+        "label": "Praia da Mata",
+        "query": "Praia da Mata Costa da Caparica"
+      },
+      {
+        "label": "Casa Mata",
+        "query": "Casa Mata Caparica"
+      }
+    ],
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "princesa",
+    "name": "Princesa",
+    "category": "beaches",
+    "area": "Costa da Caparica",
+    "mapsQuery": "Praia da Princesa Costa da Caparica",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "irmao",
+    "name": "Irmão",
+    "category": "beaches",
+    "area": "Costa da Caparica",
+    "mapsQuery": "Irmão beach Caparica",
+    "note": "Very good rec.",
+    "mustVisit": true,
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "those-who-dance",
+    "name": "Those Who Dance",
+    "category": "clubs",
+    "area": "Lisbon",
+    "mapsQuery": "Those Who Dance Lisbon",
+    "note": "Huge disco.",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "boavista-street",
+    "name": "Boavista Street",
+    "category": "clubs",
+    "area": "Lisbon",
+    "mapsQuery": "Rua da Boavista Lisbon bars",
+    "note": "Bar street: BAZ, Buena Vista Social Club, and more.",
+    "mapsLinks": [
+      {
+        "label": "BAZ",
+        "query": "BAZ bar Boavista Lisbon"
+      },
+      {
+        "label": "Buena Vista Social Club",
+        "query": "Buena Vista Social Club Lisbon"
+      }
+    ],
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "casa-independente",
+    "name": "Casa Independente",
+    "category": "clubs",
+    "area": "Lisbon",
+    "mapsQuery": "Casa Independente Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "arroz-estudios",
+    "name": "Arroz Estudios",
+    "category": "clubs",
+    "area": "Lisbon",
+    "mapsQuery": "Arroz Estudios Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "bus-paragem",
+    "name": "BUS Paragem",
+    "category": "clubs",
+    "area": "Lisbon",
+    "mapsQuery": "BUS Paragem Lisbon",
+    "note": "Alternative, squatter-style.",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "ze-dos-bois",
+    "name": "Zé dos Bois Gallery",
+    "category": "clubs",
+    "area": "Bairro Alto",
+    "mapsQuery": "Galeria Zé dos Bois Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "outra-cena",
+    "name": "Outra Cena",
+    "category": "clubs",
+    "area": "Lisbon",
+    "mapsQuery": "Outra Cena Lisbon",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "lux-fragil",
+    "name": "LuxFrágil",
+    "category": "clubs",
+    "area": "Santa Apolónia",
+    "mapsQuery": "LuxFrágil Lisbon",
+    "mustVisit": true,
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "bifana-mouraria",
+    "name": "Bifana · Mouraria",
+    "category": "food",
+    "area": "Mouraria",
+    "mapsQuery": "Grupo Desportivo da Mouraria Lisbon",
+    "note": "Bifana run: Grupo Desportivo da Mouraria / Palácio dos Távora.",
+    "mapsLinks": [
+      {
+        "label": "Grupo Desportivo da Mouraria",
+        "query": "Grupo Desportivo da Mouraria Lisbon"
+      },
+      {
+        "label": "Palácio dos Távora",
+        "query": "Palácio dos Távora Lisbon bifana"
+      }
+    ],
+    "comments": [
+      "Ne postoi ni ova na mapata"
+    ],
+    "kind": "eats",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "o-trevo",
+    "name": "O Trevo",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "O Trevo bifana Lisbon",
+    "note": "Bifana classic.",
+    "kind": "eats",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "baga-baga",
+    "name": "Baga Baga",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Baga Baga pastelaria Lisbon",
+    "note": "Pastelaria.",
+    "kind": "eats",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "tebas",
+    "name": "Tebas",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Pastelaria Tebas Lisbon",
+    "note": "Pastelaria.",
+    "kind": "eats",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "pao-de-acucar",
+    "name": "Pão de Açúcar",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Pão de Açúcar pastelaria Lisbon",
+    "note": "Pastelaria.",
+    "kind": "eats",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "lupita",
+    "name": "Lupita",
+    "category": "food",
+    "area": "Lisbon",
+    "mapsQuery": "Lupita pizza Lisbon",
+    "note": "Pizza rec.",
+    "mustVisit": true,
+    "kind": "pizza",
+    "recomendedBy": "Chamil"
+  },
+  {
+    "id": "cruz-apartments",
+    "name": "Cruz Apartments Lisbon",
+    "category": "home",
+    "area": "Lisbon",
+    "mapsQuery": "Cruz Apartments Lisbon",
+    "note": "Doma",
+    "mustVisit": true,
+    "kind": "stay",
+    "recomendedBy": "Marko"
+  },
+  {
+    "id": "supermarket-1",
+    "name": "My Auchan",
+    "category": "home",
+    "area": "Lisbon",
+    "mapsUrl": "https://maps.app.goo.gl/HEbzbPGYuNzjS6YWA",
+    "kind": "supermarket",
+    "recomendedBy": "Mario",
+    "comments": [
+        "250m from Cruz Apartments"
+      ]
+  },
+  {
+    "id": "supermarket-2",
+    "name": "MiniPreço express",
+    "category": "home",
+    "area": "Lisbon",
+    "mapsUrl": "https://maps.app.goo.gl/gXo3b4oJrAig41VP7",
+    "kind": "supermarket",
+    "recomendedBy": "Mario",
+    "comments": [
+        "250m from Cruz Apartments"
+      ]
+  },
+  {
+    "id": "supermarket-3",
+    "name": "SPAR Liberdade",
+    "category": "home",
+    "area": "Lisbon",
+    "mapsUrl": "https://maps.app.goo.gl/jkvCHpXXT64dzbYPA",
+    "kind": "supermarket",
+    "recomendedBy": "Mario",
+    "comments": [
+        "400m from Cruz Apartments"
+      ]
+  }
+]

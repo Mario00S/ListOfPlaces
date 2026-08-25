@@ -1,0 +1,347 @@
+{
+  "a-capela": [
+    "images/a-capela-1.webp",
+    "images/a-capela-2.webp",
+    "images/a-capela-3.webp"
+  ],
+  "a-provinciana": [
+    "images/a-provinciana-1.webp",
+    "images/a-provinciana-2.webp",
+    "images/a-provinciana-3.webp"
+  ],
+  "a-valenciana": [
+    "images/a-valenciana-1.webp",
+    "images/a-valenciana-2.webp",
+    "images/a-valenciana-3.webp"
+  ],
+  "alfama-bar-street": [
+    "images/alfama-bar-street-1.webp",
+    "images/alfama-bar-street-2.webp",
+    "images/alfama-bar-street-3.webp"
+  ],
+  "amor-records": [
+    "images/amor-records-1.webp",
+    "images/amor-records-2.webp",
+    "images/amor-records-3.webp"
+  ],
+  "anta-bar": [
+    "images/anta-bar-1.webp",
+    "images/anta-bar-2.webp",
+    "images/anta-bar-3.webp"
+  ],
+  "arroz-estudios": [
+    "images/arroz-estudios-1.webp",
+    "images/arroz-estudios-2.webp"
+  ],
+  "bairro-alto": [
+    "images/bairro-alto-1.webp",
+    "images/bairro-alto-2.webp"
+  ],
+  "baz": [
+    "images/baz-1.webp",
+    "images/baz-2.webp",
+    "images/baz-3.webp"
+  ],
+  "bhetghat": [
+    "images/bhetghat-1.webp",
+    "images/bhetghat-2.webp",
+    "images/bhetghat-3.webp"
+  ],
+  "black-sheep": [
+    "images/black-sheep-1.webp",
+    "images/black-sheep-2.webp",
+    "images/black-sheep-3.webp"
+  ],
+  "boa-vista": [
+    "images/boa-vista-1.webp",
+    "images/boa-vista-2.webp",
+    "images/boa-vista-3.webp"
+  ],
+  "boavista-street": [
+    "images/boavista-street-1.webp",
+    "images/boavista-street-2.webp",
+    "images/boavista-street-3.webp"
+  ],
+  "burger-champ": [
+    "images/burger-champ-1.webp",
+    "images/burger-champ-2.webp",
+    "images/burger-champ-3.webp"
+  ],
+  "bus-paragem": [
+    "images/bus-paragem.webp",
+    "images/bus-paragem-2.webp"
+  ],
+  "bythewine": [
+    "images/bythewine-1.webp",
+    "images/bythewine-2.webp",
+    "images/bythewine-3.webp"
+  ],
+  "cais-do-sodre": [
+    "images/cais-do-sodre.webp"
+  ],
+  "cantina-das-freiras": [
+    "images/cantina-das-freiras-1.webp",
+    "images/cantina-das-freiras-2.webp",
+    "images/cantina-das-freiras-3.webp"
+  ],
+  "casa-do-comun": [
+    "images/casa-do-comun-1.webp",
+    "images/casa-do-comun-2.webp",
+    "images/casa-do-comun-3.webp"
+  ],
+  "casa-farta": [
+    "images/casa-farta-1.webp",
+    "images/casa-farta-2.webp",
+    "images/casa-farta-3.webp"
+  ],
+  "casa-independente": [
+    "images/casa-independente-1.webp",
+    "images/casa-independente-2.webp"
+  ],
+  "clandestino": [
+    "images/clandestino-1.webp",
+    "images/clandestino-2.webp",
+    "images/clandestino-3.webp"
+  ],
+  "crafty-corner": [
+    "images/crafty-corner-1.webp",
+    "images/crafty-corner-2.webp",
+    "images/crafty-corner-3.webp"
+  ],
+  "da-wanmian": [
+    "images/da-wanmian-1.webp",
+    "images/da-wanmian-2.webp"
+  ],
+  "dallas-burger": [
+    "images/dallas-burger-1.webp",
+    "images/dallas-burger-2.webp",
+    "images/dallas-burger-3.webp"
+  ],
+  "estrela": [
+    "images/estrela-1.webp",
+    "images/estrela-2.webp",
+    "images/estrela-3.webp"
+  ],
+  "foxtrot": [
+    "images/foxtrot-1.webp",
+    "images/foxtrot-2.webp",
+    "images/foxtrot-3.webp"
+  ],
+  "galeto": [
+    "images/galeto-1.webp",
+    "images/galeto-2.webp",
+    "images/galeto-3.webp"
+  ],
+  "ground-burger": [
+    "images/ground-burger-1.webp",
+    "images/ground-burger-2.webp",
+    "images/ground-burger-3.webp"
+  ],
+  "gulbenkian": [
+    "images/gulbenkian.webp"
+  ],
+  "han-table": [
+    "images/han-table-1.webp",
+    "images/han-table-2.webp",
+    "images/han-table-3.webp"
+  ],
+  "holy-wine": [
+    "images/holy-wine-1.webp",
+    "images/holy-wine-2.webp",
+    "images/holy-wine-3.webp"
+  ],
+  "honest-greens": [
+    "images/honest-greens-1.webp",
+    "images/honest-greens-2.webp",
+    "images/honest-greens-3.webp"
+  ],
+  "imprensa": [
+    "images/imprensa-1.webp",
+    "images/imprensa-2.webp",
+    "images/imprensa-3.webp"
+  ],
+  "irmao": [
+    "images/irmao-1.webp",
+    "images/irmao-2.webp",
+    "images/irmao-3.webp"
+  ],
+  "josephine": [
+    "images/josephine-1.webp",
+    "images/josephine-2.webp",
+    "images/josephine-3.webp"
+  ],
+  "karater": [
+    "images/karater-1.webp",
+    "images/karater-2.webp",
+    "images/karater-3.webp"
+  ],
+  "koppu": [
+    "images/koppu-1.webp",
+    "images/koppu-2.webp",
+    "images/koppu-3.webp"
+  ],
+  "la-pasta-fresca": [
+    "images/la-pasta-fresca-1.webp",
+    "images/la-pasta-fresca-2.webp",
+    "images/la-pasta-fresca-3.webp"
+  ],
+  "lisa-bar": [
+    "images/lisa-bar-1.webp",
+    "images/lisa-bar-2.webp",
+    "images/lisa-bar-3.webp"
+  ],
+  "locals-nomads": [
+    "images/locals-nomads-1.webp",
+    "images/locals-nomads-2.webp",
+    "images/locals-nomads-3.webp"
+  ],
+  "lucimar-goncalo": [
+    "images/lucimar-goncalo-1.webp",
+    "images/lucimar-goncalo-2.webp",
+    "images/lucimar-goncalo-3.webp"
+  ],
+  "magnolia": [
+    "images/magnolia-1.webp",
+    "images/magnolia-2.webp",
+    "images/magnolia-3.webp"
+  ],
+  "maria-loca": [
+    "images/maria-loca-1.webp",
+    "images/maria-loca-2.webp",
+    "images/maria-loca-3.webp"
+  ],
+  "mercado-oriental": [
+    "images/mercado-oriental-1.webp",
+    "images/mercado-oriental-2.webp"
+  ],
+  "monkey-mash": [
+    "images/monkey-mash-1.webp",
+    "images/monkey-mash-2.webp",
+    "images/monkey-mash-3.webp"
+  ],
+  "nexo": [
+    "images/nexo-1.webp",
+    "images/nexo-2.webp"
+  ],
+  "nuua": [
+    "images/nuua-1.webp",
+    "images/nuua-2.webp"
+  ],
+  "o-aviao": [
+    "images/o-aviao-1.webp",
+    "images/o-aviao-2.webp",
+    "images/o-aviao-3.webp"
+  ],
+  "o-pif": [
+    "images/o-pif-1.webp",
+    "images/o-pif-2.webp",
+    "images/o-pif-3.webp"
+  ],
+  "o-trevo": [
+    "images/o-trevo-1.webp",
+    "images/o-trevo-2.webp"
+  ],
+  "outra-cena": [
+    "images/outra-cena-1.webp",
+    "images/outra-cena-2.webp"
+  ],
+  "palheta": [
+    "images/palheta-1.webp",
+    "images/palheta-2.webp",
+    "images/palheta-3.webp"
+  ],
+  "parque-eduardo-vii": [
+    "images/parque-eduardo-vii.webp"
+  ],
+  "pensao-amor": [
+    "images/pensao-amor-1.webp",
+    "images/pensao-amor-2.webp"
+  ],
+  "praia-da-mata": [
+    "images/praia-da-mata-1.webp",
+    "images/praia-da-mata-2.webp"
+  ],
+  "princesa": [
+    "images/princesa-1.webp",
+    "images/princesa-2.webp",
+    "images/princesa-3.webp"
+  ],
+  "retrogusto84": [
+    "images/retrogusto84-1.webp",
+    "images/retrogusto84-2.webp",
+    "images/retrogusto84-3.webp"
+  ],
+  "santa-catarina": [
+    "images/santa-catarina-1.webp",
+    "images/santa-catarina-2.webp",
+    "images/santa-catarina-3.webp"
+  ],
+  "santa-luzia": [
+    "images/santa-luzia-1.webp",
+    "images/santa-luzia-2.webp"
+  ],
+  "tabernita": [
+    "images/tabernita-1.webp",
+    "images/tabernita-2.webp",
+    "images/tabernita-3.webp"
+  ],
+  "tasca-do-jaime": [
+    "images/tasca-do-jaime-1.webp",
+    "images/tasca-do-jaime-2.webp",
+    "images/tasca-do-jaime-3.webp"
+  ],
+  "tasca-do-mercado": [
+    "images/tasca-do-mercado-1.webp",
+    "images/tasca-do-mercado-2.webp",
+    "images/tasca-do-mercado-3.webp"
+  ],
+  "tasca-peteasian": [
+    "images/tasca-peteasian-1.webp",
+    "images/tasca-peteasian-2.webp",
+    "images/tasca-peteasian-3.webp"
+  ],
+  "taska-txika": [
+    "images/taska-txika-1.webp",
+    "images/taska-txika-2.webp",
+    "images/taska-txika-3.webp"
+  ],
+  "those-who-dance": [
+    "images/those-who-dance-1.webp",
+    "images/those-who-dance-2.webp",
+    "images/those-who-dance-3.webp"
+  ],
+  "toca-de-raposa": [
+    "images/toca-de-raposa-1.webp",
+    "images/toca-de-raposa-2.webp",
+    "images/toca-de-raposa-3.webp"
+  ],
+  "torel": [
+    "images/torel-1.webp",
+    "images/torel-2.webp",
+    "images/torel-3.webp"
+  ],
+  "uni": [
+    "images/uni-1.webp",
+    "images/uni-2.webp",
+    "images/uni-3.webp"
+  ],
+  "vago": [
+    "images/vago-1.webp",
+    "images/vago-2.webp"
+  ],
+  "vino-vero": [
+    "images/vino-vero-1.webp",
+    "images/vino-vero-2.webp",
+    "images/vino-vero-3.webp"
+  ],
+  "ze-de-mouraria": [
+    "images/ze-de-mouraria-1.webp",
+    "images/ze-de-mouraria-2.webp",
+    "images/ze-de-mouraria-3.webp"
+  ],
+  "cruz-apartments": [
+    "images/cruz-apartments-1.webp",
+    "images/cruz-apartments-2.webp",
+    "images/cruz-apartments-3.webp"
+  ]
+}

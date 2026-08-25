@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#f7f6f2" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Lisbon" />
+    <title>Lisbon</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <p class="top">
+        <span class="kicker">27.08-29.08</span>
+        <button type="button" class="theme" id="theme" aria-label="Toggle theme">Dark</button>
+      </p>
+      <h1>Lisbon</h1>
+      <p class="lede">À nossa! – To us! / To our health!</p>
+      <label>
+        <span class="visually-hidden">Search</span>
+        <input id="search" type="search" placeholder="Search" autocomplete="off" />
+      </label>
+    </header>
+
+    <div class="nav-stack">
+      <nav id="nav" aria-label="Categories"></nav>
+      <nav id="subnav" aria-label="Subcategories" hidden></nav>
+    </div>
+
+    <main>
+      <p class="count" id="count"></p>
+      <section id="list" aria-live="polite"></section>
+      <p class="empty" id="empty" hidden>Nothing here.</p>
+    </main>
+
+    <footer>Crew comments, not Google reviews.</footer>
+
+    <template id="place-tpl">
+      <article class="place">
+        <div class="shots" hidden>
+          <div class="track"></div>
+          <div class="dots" hidden></div>
+        </div>
+        <p class="meta"><span class="cat"></span><span class="area"></span></p>
+        <h2 class="name"></h2>
+        <p class="hours" hidden></p>
+        <blockquote class="quotes"></blockquote>
+        <p class="extra"></p>
+        <p class="row">
+          <a class="maps" target="_blank" rel="noopener noreferrer">Maps</a>
+          <span class="by" hidden></span>
+        </p>
+      </article>
+    </template>
+
+    <script src="app.js"></script>
+  </body>
+</html>
