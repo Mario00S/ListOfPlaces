@@ -139,6 +139,23 @@
     "recomendedBy": "Chamil"
   },
   {
+    "id": "pavilhao-chines",
+    "name": "Pavilhão Chinês",
+    "category": "bars",
+    "area": "Lisbon",
+    "mapsUrl": "https://share.google/ZrP977WX866nXW1hC",
+    "mapsLinks": [
+      {
+        "label": "video",
+        "url": "https://www.instagram.com/reel/DVY-77tjUlV/?igsi=bmw4NWcxYjF6ZnAz"
+      }
+    ],
+    "comments": [
+      "Go najdov od instagram i go uploadiram od mobilen 1km od Cruz Apartments"
+    ],
+    "recomendedBy": "Mario"
+  },
+  {
     "id": "vino-vero",
     "name": "Vino Vero",
     "category": "wine",
