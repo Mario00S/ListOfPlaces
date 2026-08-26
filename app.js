@@ -270,11 +270,11 @@ function render() {
 searchEl.addEventListener("input", render);
 
 Promise.all([
-  fetch("places.json").then((r) => {
+  fetch("places.json", { cache: "no-store" }).then((r) => {
     if (!r.ok) throw new Error("Could not load places.json");
     return r.json();
   }),
-  fetch("photos.json")
+  fetch("photos.json", { cache: "no-store" })
     .then((r) => (r.ok ? r.json() : {}))
     .catch(() => ({})),
 ])
